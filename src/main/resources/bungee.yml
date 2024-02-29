@@ -1,0 +1,3 @@
+name: TMC Server Start Cloud v2
+version: '${project.version}'
+main: net.themodcraft.tmcserverstartcloudv2.TMCServerStartCloudV2

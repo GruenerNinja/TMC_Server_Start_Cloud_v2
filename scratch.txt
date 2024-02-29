@@ -1,0 +1,21 @@
+Was ich versuche zu machen ist über den config handler die folder struktur zu mapen ungefähr so
+
+example
+├── example Server 1
+│        └── server_purpure_1.20.4.jar
+├── example Server 2
+│        └── server_purpure_1.20.4.jar
+├── example Server 3
+│        └── server_purpure_1.20.4.jar
+├── example Server 4
+│        └── Server_purpure_1.19.4.jar
+└── waterfall
+    └── plugins
+
+
+dan versuche ich über das plugin ein terminal fenster zu öffnen und die window id abzuspeichern
+sowohl will ich es so machen das ich aus der bungee config file die ip zum server ziehe und mit der id abspeichern
+wenn der server ausgeschalten wurde solte das plugin das über die ip bemerken wie das plugin server status https://www.spigotmc.org/resources/server-status.20186/
+wenn dies eintrift solte das terminal window wider geschlossen werden
+
+https://chat.openai.com/share/9669642b-77ff-4a77-a538-55adfcf6a2cb
